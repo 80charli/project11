@@ -39,5 +39,5 @@ function draw() {
 
   
     
-  drawSprites();
+  drawSprites()
 }
